@@ -1,6 +1,8 @@
 # JAMsmallx_2025_hel_params
 This repository tabulates the large-N_c^{+q} KPS-CTT initial condition parameters used to complete the phenomenological analysis of of arXiv: 2503.21006 [hep-ph]; the parameters are defined by Eqs. 24 of that article.
 
+"Replica #" is simply a way of numbering the replicas and it has no scientific meaning.
+
 $a_u$ is denoted by "up1 a"
 
 $b_u$ is denoted by "up1 b"
