@@ -51,7 +51,7 @@ This "Parameters_GitHub" tabulates the large-N_c^{+q} KPS-CTT initial condition 
       
       $c_2$ is denoted by "G2 a"
 
-"xhPDF" provides the $x$-scaled hPDFs seen in Fig. 7 of arXiv: 2503.21006 [hep-ph]. All computed for $Q^2 = 10$ GeV${}^2$, the "x" column gives the value of $x$ (plotted on the horizontal axis), while the following columns gives the hPDF uncertainty boundaries. The uncertainties are computed as 68% confidence bands of all replicas using numpy.percentile. The upper boundary uses the percentage "50+68/2", the lower boundary uses the percentage "50-68/2", and the median (not plotted) uses percentage "50".
+"xhPDF_GitHub" provides the $x$-scaled hPDFs seen in Fig. 7 of arXiv: 2503.21006 [hep-ph]. All computed for $Q^2 = 10$ GeV ${}^2$, the "x" column gives the value of $x$ (plotted on the horizontal axis), while the following columns gives the hPDF uncertainty boundaries. The uncertainties are computed as 68% confidence bands of all replicas using numpy.percentile. The upper boundary uses the percentage "50+68/2", the lower boundary uses the percentage "50-68/2", and the median (not plotted) uses percentage "50".
 
       "g_lower" gives the lower-boundary of the 68% condifence band from all replicas of $x \times \Delta g(x, Q^2 = 10~\text{GeV}^2)$
 
